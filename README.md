@@ -11,13 +11,17 @@
 </h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/wojciech-ratajczak-591421227/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/pengfei-zhang-b08130279/" target="_blank">
+    <img src="assets/icons/connect/icons8-linkedin-50.svg" alt="LinkedIn" />
   </a>
   <a href="https://github.com/that1potato" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="assets/icons/connect/icons8-github-50.svg" alt="GitHub" />
   </a>
-  <a href="mailto:wojciech.ratajczak987@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  <a href="mailto:Brian.PZ.987@gmail.com" target="_blank">
+    <img src="assets/icons/connect/icons8-gmail-50.svg" alt="Gmail" />
   </a>
 </p>
+
+---
+
+_Icons by [Icons8](https://icons8.com/)_
