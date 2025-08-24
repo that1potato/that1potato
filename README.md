@@ -3,7 +3,7 @@
 </h1>
 
 <h4 align="center">
-  Passinate about machine learning and DIY software projects. 
+  Passionate about machine learning and DIY software projects. 
 </h4>
 
 <h3 align="center">
